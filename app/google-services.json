@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263211758921",
+    "project_id": "mad-1-85a23",
+    "storage_bucket": "mad-1-85a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263211758921:android:3f3517224540028e011698",
+        "android_client_info": {
+          "package_name": "com.example.hospital_ms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263211758921-b3uoc8l4tpbkklejo4uljp9vto5godre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9hJUb638X1r4Q9_iA-pkIkQ_fFeK8Hr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263211758921-b3uoc8l4tpbkklejo4uljp9vto5godre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
